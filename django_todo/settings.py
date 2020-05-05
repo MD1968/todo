@@ -27,7 +27,7 @@ DEBUG = True
 
 # Make sure to use your own hostname here, and/or use`127.0.0.1` for
 # localhost
-ALLOWED_HOSTS = ['127.0.0.1', 'django-todo-richardadalton.c9users.io']
+ALLOWED_HOSTS = ['127.0.0.1', '8000-d49b511b-c1a8-4ea8-a70c-0306cef0aebf.ws-eu01.gitpod.io']
 
 
 # Application definition
